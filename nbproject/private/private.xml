@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/UDB/Documents/NetBeansProjects/ProyectoSpring/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/UDB/Documents/NetBeansProjects/ProyectoSpring/src/java/sv/edu/udb/www/entities/hibernate.reveng.xml</file>
+            <file>file:/C:/Users/UDB/Documents/NetBeansProjects/ProyectoSpring/src/java/sv/edu/udb/www/entities/Editoriales.java</file>
+            <file>file:/C:/Users/UDB/Documents/NetBeansProjects/ProyectoSpring/web/WEB-INF/jsp/editoriales/listar.jsp</file>
+            <file>file:/C:/Users/UDB/Documents/NetBeansProjects/ProyectoSpring/src/java/sv/edu/udb/www/entities/HibernateUtil.java</file>
+            <file>file:/C:/Users/UDB/Documents/NetBeansProjects/ProyectoSpring/web/WEB-INF/jsp/editoriales/editar.jsp</file>
+            <file>file:/C:/Users/UDB/Documents/NetBeansProjects/ProyectoSpring/src/java/sv/edu/udb/www/model/EditorialesModel.java</file>
+            <file>file:/C:/Users/UDB/Documents/NetBeansProjects/ProyectoSpring/src/java/sv/edu/udb/www/controller/EditorialesController.java</file>
+            <file>file:/C:/Users/UDB/Documents/NetBeansProjects/ProyectoSpring/web/WEB-INF/jsp/editoriales/nuevo.jsp</file>
+        </group>
+    </open-files>
+</project-private>
